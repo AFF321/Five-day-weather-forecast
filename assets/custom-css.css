@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+}
+
+
+header{
+    text-align: center;
+    height: 50px;
+    background-color: grey;
+}
+#subtn{
+    width: 100x;
+}
